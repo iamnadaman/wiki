@@ -10,15 +10,15 @@ as Microsoft has corrected mistakes or added/improved existing features.
 
 :\*[Xenon](./Xenon_(Motherboard).md) (Launch hardware)
 
-:\*[Zephyr](./Revisions/Zephyr.md) (Elite)
+:\*[Zephyr](./Revisions/Zephyr.md) (Launch Elite hardware, later trickled down to 20 GB "Premium" consoles)
 
-:\*[Falcon](./Revisions/Falcon.md) (65nm Chipset revision)
+:\*[Falcon](./Revisions/Falcon.md) (65 nm CPU revision)
 
 :\*[Opus](./Revisions/Falcon.md#opus)
 
-:\*[Jasper](./Revisions/Jasper.md) (Onboard Memory Unit)
+:\*[Jasper](./Revisions/Jasper.md) (On-board Memory Unit & 65 nm GPU)
 
-:\*[Trinity](./Revisions/Trinity.md) (Slim)
+:\*[Trinity](./Revisions/Trinity.md) (Launch Xbox 360 S hardware)
 
 ## Details
 
