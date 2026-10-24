@@ -39,7 +39,7 @@ Microsoft refurbishments of Xenon motherboards that had an RRoD issue. These rep
   - Zephyr-style GPU cooler (extended heatpipe)
   - Standard CPU cooler
   - 203 Watt output power supply (16.5 A)
-  - BenQ Lite-On DVD drive.
+  - BenQ or Lite-On DVD drive.
   - Highly unlikely to have glue around the CPU but it *is* possible.
 
 ## Zephyr
